@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/creek-pro/static/css/main.1f7755ba.css",
+    "main.js": "/creek-pro/static/js/main.a31da293.js",
+    "static/js/787.9007a62f.chunk.js": "/creek-pro/static/js/787.9007a62f.chunk.js",
+    "static/media/slider-2.jpg": "/creek-pro/static/media/slider-2.20c38dedc7246bc2a0a7.jpg",
+    "static/media/bg-img.jpg": "/creek-pro/static/media/bg-img.bb10e5b39048425beb3f.jpg",
+    "static/media/slider-3.jpg": "/creek-pro/static/media/slider-3.7137cf9ec6326ca12c3f.jpg",
+    "static/media/slider-1.jpg": "/creek-pro/static/media/slider-1.e4b1bfd80990acabccc2.jpg",
+    "static/media/logo.svg": "/creek-pro/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/creek-pro/index.html",
+    "main.1f7755ba.css.map": "/creek-pro/static/css/main.1f7755ba.css.map",
+    "main.a31da293.js.map": "/creek-pro/static/js/main.a31da293.js.map",
+    "787.9007a62f.chunk.js.map": "/creek-pro/static/js/787.9007a62f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f7755ba.css",
+    "static/js/main.a31da293.js"
+  ]
+}
